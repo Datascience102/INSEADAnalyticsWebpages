@@ -1,0 +1,8 @@
+title: Inseadjan2014
+description: INSEAD Data Analytics Course, January 2014
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
